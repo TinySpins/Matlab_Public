@@ -1,8 +1,5 @@
-## Matlab_Library
-This is the home of my Matlab scripts. Some scripts may be dependent on third-party scripts that can be found on the MathWorks File Exchange or elsewhere. These third-party scripts are not uploaded to GitHub, but only kept locally.
-
-### Configuration
-Files for configuration of Matlab.
+## Matlab_Public
+This is the home of my public Matlab scripts. Some scripts may be dependent on third-party scripts that can be found on the MathWorks File Exchange or elsewhere. These third-party scripts are not uploaded to GitHub, but only kept locally.
 
 ### Utilities
 General scripts with broad utility.
