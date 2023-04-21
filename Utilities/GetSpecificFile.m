@@ -15,12 +15,6 @@
 % path = GetPath;
 % fileList = GetSpecificFile(path,'multislice13C_','*.fid');
 
-
-
-
-
-
-
 function FileList = GetSpecificFile(path,FileType,FileExtension)
 
     list = dir([path.full '/' FileType FileExtension]);
