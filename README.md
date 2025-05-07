@@ -4,6 +4,9 @@ This is the home of my public Matlab scripts. Some scripts may be dependent on t
 ### Utilities
 General scripts with broad utility.
 
+### PET Utilities
+Scripts with PET utility.
+
 ### Colormaps
 Custom colormaps.
 
